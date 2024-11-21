@@ -53,7 +53,6 @@ void setup()
   while (!Serial)
     delay(50);
       
-
   // if (!kxAccel.begin())
   // {
   //   Serial.println("Could not communicate with the the KX13X. Freezing.");
